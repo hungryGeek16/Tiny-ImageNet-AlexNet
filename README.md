@@ -120,4 +120,4 @@ val_trans = [transforms.Resize(256), transforms.CenterCrop(224), transforms.ToTe
 
 * Colab link for **AlexNet**:[Link](https://drive.google.com/file/d/1RvE-Jo0GnCl2z8_yc84YLp0Fpv9TtL3i/view?usp=sharing)
 
-
+### Credits:[Link](https://github.com/DennisHanyuanXu/Tiny-ImageNet)

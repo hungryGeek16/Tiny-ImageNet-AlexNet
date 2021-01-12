@@ -105,6 +105,10 @@ val_trans = [transforms.Resize(256), transforms.CenterCrop(224), transforms.ToTe
 
 * Average Miss Rates of from lower-5 to higher-5 while inferencing:
 
+<p align="center">
+  <img src="visuals/image2.jpg" width = 480>
+</p>
+
 
 
 * Colab link for **all models except AlexNet**:[Link](https://colab.research.google.com/drive/1B-KikqF_P57KZ8WHRtbUWTNKTLhyNAOP?usp=sharing)

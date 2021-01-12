@@ -100,7 +100,7 @@ val_trans = [transforms.Resize(256), transforms.CenterCrop(224), transforms.ToTe
 </p>
 
 <p align="center">
-  <img src="visuals/imgae2.jpg" width = 480>
+  <img src="visuals/image2.jpg" width = 480>
 </p>
 
 * Average Miss Rates of from lower-5 to higher-5 while inferencing:
